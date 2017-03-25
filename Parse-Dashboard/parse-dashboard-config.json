@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://parse-server-said.herokuapp.com/parse",
+    "appId": "FJT8C2WNKTDKPQGJYHXDYBFFC",
+    "masterKey": "93DP7M3GMQFM49MNVTPGP4YBM",
+    "appName": "Parse Dashboard",
     "iconName": ""
   }],
   "iconsFolder": "icons"
